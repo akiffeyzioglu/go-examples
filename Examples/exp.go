@@ -8,4 +8,4 @@ func main() {
 	} 
 }
 
-// 100'den 0'a kadar 10'er 10'er ekrana yazar. 
+// 100'den 0'a kadar 10'ar 10'ar ekrana yazar. 
